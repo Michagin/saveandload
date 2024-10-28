@@ -1,0 +1,14 @@
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\bin\Debug\net8.0\SaveAndLoad.exe
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\bin\Debug\net8.0\SaveAndLoad.deps.json
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\bin\Debug\net8.0\SaveAndLoad.runtimeconfig.json
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\bin\Debug\net8.0\SaveAndLoad.dll
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\bin\Debug\net8.0\SaveAndLoad.pdb
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.AssemblyInfoInputs.cache
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.AssemblyInfo.cs
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.csproj.CoreCompileInputs.cache
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.dll
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\refint\SaveAndLoad.dll
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.pdb
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\SaveAndLoad.genruntimeconfig.cache
+C:\Users\Michagin\code\SaveAndLoad\SaveAndLoad\obj\Debug\net8.0\ref\SaveAndLoad.dll
